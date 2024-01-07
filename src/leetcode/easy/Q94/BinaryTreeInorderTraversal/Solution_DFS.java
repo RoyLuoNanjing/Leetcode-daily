@@ -1,23 +1,13 @@
 package leetcode.easy.Q94.BinaryTreeInorderTraversal;
 
+import leetcode.ClassUtils.TreeNode;
+
 import java.util.ArrayList;
 import java.util.List;
 
 public class Solution_DFS {
-
-
      // Definition for a binary tree node.
-      public class TreeNode {
-          int val;
-          TreeNode left;
-          TreeNode right;
-          TreeNode() {}
-          TreeNode(int val) { this.val = val; }
-          TreeNode(int val, TreeNode left, TreeNode right) {
-              this.val = val;
-              this.left = left;
-              this.right = right;     }
-      }
+
 
     public List<Integer> inorderTraversal(TreeNode root) {
         List<Integer> ans = new ArrayList<Integer>();
@@ -38,5 +28,6 @@ public class Solution_DFS {
      * Comment:
      * Inorder Traversal 为中序遍历，顺序为左子树 -> 根节点 ->右子树
      * 用dfs依照上述顺序将所获得的数放入arraylist里面
+     * 步骤：首先访问根节点，然后递归地进行左子树的前序遍历，最后递归地进行右子树的前序遍历。
      */
 }

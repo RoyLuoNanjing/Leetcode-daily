@@ -1,6 +1,6 @@
 package leetcode.easy.Q145_BinaryTreePostorderTraversal;
 
-import leetcode.ClassUtils.TreeNode;
+import leetcode.classUtils.TreeNode;
 
 import java.util.ArrayList;
 import java.util.List;

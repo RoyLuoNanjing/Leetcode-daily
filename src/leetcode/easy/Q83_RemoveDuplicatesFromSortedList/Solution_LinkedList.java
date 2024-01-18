@@ -1,6 +1,6 @@
 package leetcode.easy.Q83_RemoveDuplicatesFromSortedList;
 
-import leetcode.ClassUtils.ListNode;
+import leetcode.classUtils.ListNode;
 
 public class Solution_LinkedList {
 

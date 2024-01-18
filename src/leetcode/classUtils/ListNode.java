@@ -1,4 +1,4 @@
-package leetcode.ClassUtils;
+package leetcode.classUtils;
 
 
 //Definition for singly-linked list.

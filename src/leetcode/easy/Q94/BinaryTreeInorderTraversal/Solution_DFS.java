@@ -1,6 +1,6 @@
 package leetcode.easy.Q94.BinaryTreeInorderTraversal;
 
-import leetcode.ClassUtils.TreeNode;
+import leetcode.classUtils.TreeNode;
 
 import java.util.ArrayList;
 import java.util.List;

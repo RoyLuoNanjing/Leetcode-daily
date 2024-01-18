@@ -1,8 +1,6 @@
 package leetcode.medium.Q82_RemoveDuplicatesFromSortedListII;
 
-import leetcode.ClassUtils.ListNode;
-
-import java.util.List;
+import leetcode.classUtils.ListNode;
 
 public class Solution_TwoPointers {
     public ListNode deleteDuplicates(ListNode head) {

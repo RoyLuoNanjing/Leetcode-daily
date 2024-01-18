@@ -1,7 +1,6 @@
 package leetcode.easy.Q501_FindModeInBinarySearchTree;
 
-import com.sun.source.tree.Tree;
-import leetcode.ClassUtils.TreeNode;
+import leetcode.classUtils.TreeNode;
 
 import java.util.ArrayList;
 import java.util.List;

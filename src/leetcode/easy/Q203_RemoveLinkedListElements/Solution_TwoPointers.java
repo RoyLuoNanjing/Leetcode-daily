@@ -11,11 +11,11 @@ public class Solution_TwoPointers {
         ListNode fast = head;
 
 
-        while (fast !=null){
+        while (fast != null) {
             //如果快指针等于指定的值，则让慢指针指向快指针的下一个
-            if (fast.val == val){
+            if (fast.val == val) {
                 slow.next = fast.next;
-            }else {
+            } else {
                 //慢指针下后走一位
                 slow = slow.next;
             }

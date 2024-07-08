@@ -1,6 +1,6 @@
-package leetcode.challenges;
+package leetcode.challenges.AmericanExpress;
 
-public class Solution_AmericanExpress {
+public class Solution {
 
     /**
      * Comment:

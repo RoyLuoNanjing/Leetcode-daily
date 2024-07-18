@@ -1,4 +1,4 @@
-package hackerRank_DataStructures.ArraysDS;
+package hackerRank_DataStructures.Easy.ArraysDS;
 
 import java.util.Collections;
 import java.util.List;

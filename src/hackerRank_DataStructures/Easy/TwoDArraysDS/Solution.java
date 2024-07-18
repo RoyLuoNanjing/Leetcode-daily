@@ -1,6 +1,5 @@
-package hackerRank_DataStructures.TwoDArraysDS;
+package hackerRank_DataStructures.Easy.TwoDArraysDS;
 
-import java.util.ArrayList;
 import java.util.List;
 
 public class Solution {

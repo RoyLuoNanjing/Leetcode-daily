@@ -1,8 +1,8 @@
-package hackerRank_DataStructures.Easy.InsertANodeAtTheTailOfALinkedList;
+package hackerRank_DataStructures.classUtils;
 
 public class SinglyLinkedListNode {
-    int data;
-    SinglyLinkedListNode next;
+    public int data;
+    public SinglyLinkedListNode next;
 
     public SinglyLinkedListNode(int data, SinglyLinkedListNode next) {
         this.data = data;

@@ -1,5 +1,7 @@
 package hackerRank_DataStructures.Easy.PrintTheElementsOfALinkedList;
 
+import hackerRank_DataStructures.classUtils.SinglyLinkedListNode;
+
 public class Solution {
 
     static void printLinkedList(SinglyLinkedListNode head) {

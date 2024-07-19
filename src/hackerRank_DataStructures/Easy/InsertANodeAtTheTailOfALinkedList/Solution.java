@@ -1,5 +1,7 @@
 package hackerRank_DataStructures.Easy.InsertANodeAtTheTailOfALinkedList;
 
+import hackerRank_DataStructures.classUtils.SinglyLinkedListNode;
+
 import java.util.Scanner;
 
 public class Solution {

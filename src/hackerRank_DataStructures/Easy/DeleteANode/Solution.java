@@ -1,4 +1,4 @@
-package hackerRank_DataStructures.Easy.DeleteANode;
+
 
 public class Solution {
     class SinglyLinkedListNode {
@@ -10,6 +10,8 @@ public class Solution {
             this.next = null;
         }
     }
+
+
 
     public static SinglyLinkedListNode deleteNode(SinglyLinkedListNode llist, int position) {
         // Write your code here

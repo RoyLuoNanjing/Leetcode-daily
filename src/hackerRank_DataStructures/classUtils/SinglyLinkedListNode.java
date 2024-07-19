@@ -1,6 +1,6 @@
 package hackerRank_DataStructures.classUtils;
 
-public class SinglyLinkedListNode {
+public  class SinglyLinkedListNode {
     public int data;
     public SinglyLinkedListNode next;
 

@@ -32,7 +32,6 @@ public class Solution {
                 c = target;
             }
 
-
             sb.append(c);
         }
 
